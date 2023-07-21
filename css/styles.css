@@ -3108,7 +3108,7 @@ td:last-child {
  * -------------------------------------------------------------------- */
 .s-header__logo {
     z-index    : 3;
-    line-height: 2;
+    line-height: 1;
     transform  : translate(0.2rem, -0.05em);
 }
 
@@ -3406,7 +3406,7 @@ td:last-child {
 }
 
 .s-intro__content-title {
-    font-size     : clamp(3.8rem, 3.8vw, 8.8rem);
+    font-size     : clamp(3.8rem, 4.8vw, 8.8rem);
     line-height   : 1.045;
     letter-spacing: -0.025em;
     margin-top    : 0;
