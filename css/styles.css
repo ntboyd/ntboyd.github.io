@@ -3884,8 +3884,8 @@ td:last-child {
 
 .s-about__bio img {
     float         : left;
-    width         : 5%;
-    height        : 5%;
+    width         : 25%;
+    height        : 25%;
 }
     
 .s-about__blocks {
